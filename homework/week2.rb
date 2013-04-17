@@ -25,7 +25,7 @@ MONOPOLY_GAME = { deeds: {
 
 
 # 1. Implement the method below
-def number_of_tokens(token_type)
+def number_of_tokens
 
   # Your Code Goes here
 end
