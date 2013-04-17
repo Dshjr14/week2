@@ -26,7 +26,6 @@ MONOPOLY_GAME = { deeds: {
 
 # 1. Implement the method below
 def number_of_tokens(token_type)
-puts "Token: #{token_type[:type]}"
 
   # Your Code Goes here
 end
